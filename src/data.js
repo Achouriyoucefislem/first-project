@@ -1,4 +1,4 @@
-var a23 = [
+[
   {
     id : 1,
     name : 'youcef',
