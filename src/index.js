@@ -1,4 +1,8 @@
 import react from 'react'
 import reactdom from 'react-dom/client'
+import App from './App'
 
-reactdom.createRoot( document.getElementById('root') ).render( <h1>Hello world!</h1> )
+
+reactdom.createRoot(document.getElementById('root')).render( 
+  <App /> 
+)
