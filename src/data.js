@@ -1,4 +1,4 @@
-[
+var a = [
   {
     id : 1,
     name : 'youcef',
