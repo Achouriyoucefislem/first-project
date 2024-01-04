@@ -20,5 +20,3 @@ let data = [
     age : 28
   }
 ]
-
-module.exports.data = data
